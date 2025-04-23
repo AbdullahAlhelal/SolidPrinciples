@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciples", "SolidPrinciples\SolidPrinciples.csproj", "{CAB03A0A-F906-4C39-9F00-B41B62F411A8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notification Service", "Notification Service\Notification Service\Notification Service.csproj", "{17322CD8-83C9-4F8E-9BC9-3A392EF3441E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CAB03A0A-F906-4C39-9F00-B41B62F411A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAB03A0A-F906-4C39-9F00-B41B62F411A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAB03A0A-F906-4C39-9F00-B41B62F411A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17322CD8-83C9-4F8E-9BC9-3A392EF3441E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17322CD8-83C9-4F8E-9BC9-3A392EF3441E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17322CD8-83C9-4F8E-9BC9-3A392EF3441E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17322CD8-83C9-4F8E-9BC9-3A392EF3441E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
