@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{17322CD8-83C9-4F8E-9BC9-3A392EF3441E}|Notification Service\\Notification Service\\Notification Service.csproj|c:\\users\\abdullah\\source\\repos\\solidprinciples\\notification service\\notification service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17322CD8-83C9-4F8E-9BC9-3A392EF3441E}|Notification Service\\Notification Service\\Notification Service.csproj|solutionrelative:notification service\\notification service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CAB03A0A-F906-4C39-9F00-B41B62F411A8}|SolidPrinciples\\SolidPrinciples.csproj|c:\\users\\abdullah\\source\\repos\\solidprinciples\\solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAB03A0A-F906-4C39-9F00-B41B62F411A8}|SolidPrinciples\\SolidPrinciples.csproj|solutionrelative:solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -155,6 +159,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\Notification Service\\Notification Service\\Program.cs",
+              "RelativeDocumentMoniker": "Notification Service\\Notification Service\\Program.cs",
+              "ToolTip": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\Notification Service\\Notification Service\\Program.cs",
+              "RelativeToolTip": "Notification Service\\Notification Service\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:24:37.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\SolidPrinciples\\Program.cs",
               "RelativeDocumentMoniker": "SolidPrinciples\\Program.cs",

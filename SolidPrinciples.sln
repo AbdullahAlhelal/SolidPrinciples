@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciples", "SolidPri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notification Service", "Notification Service\Notification Service\Notification Service.csproj", "{17322CD8-83C9-4F8E-9BC9-3A392EF3441E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationService-SRP", "Notification Service\Notification Service(SRP)\NotificationService-SRP.csproj", "{4AA218DE-F114-4000-B815-84D1DD7F6A8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{17322CD8-83C9-4F8E-9BC9-3A392EF3441E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17322CD8-83C9-4F8E-9BC9-3A392EF3441E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17322CD8-83C9-4F8E-9BC9-3A392EF3441E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA218DE-F114-4000-B815-84D1DD7F6A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA218DE-F114-4000-B815-84D1DD7F6A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA218DE-F114-4000-B815-84D1DD7F6A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA218DE-F114-4000-B815-84D1DD7F6A8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
