@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoggingService-SRP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c76b92c18ef5f95cc1a6994e93cfa2e4864595c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d63991e6fc96fbe8a13a4e06c9d74ef66c25aa52")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoggingService-SRP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoggingService-SRP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

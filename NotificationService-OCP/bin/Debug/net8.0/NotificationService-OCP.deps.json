@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NotificationService-OCP/1.0.0": {
+        "dependencies": {
+          "WhatsAppAPI": "15.4.29"
+        },
+        "runtime": {
+          "NotificationService-OCP.dll": {}
+        }
+      },
+      "WhatsAppAPI/15.4.29": {
+        "runtime": {
+          "lib/net40/WhatsAppApi.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotificationService-OCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WhatsAppAPI/15.4.29": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6vUddAcHsxUSi2DBHrGC9Af/n6b4TeLmMSE4+HqlOn6k3FtzRxEgmDEZpzL7rkGaP1M+/nypWsObKMcvl24p3Q==",
+      "path": "whatsappapi/15.4.29",
+      "hashPath": "whatsappapi.15.4.29.nupkg.sha512"
+    }
+  }
+}

@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggingService", "Logging S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggingService-SRP", "LoggingService-SRP\LoggingService-SRP.csproj", "{8AFEAB6E-7336-4B94-B691-42ED4387B5D8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationService-OCP", "NotificationService-OCP\NotificationService-OCP.csproj", "{18268D3B-EDB4-41A8-BA98-30AEBF71A5ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8AFEAB6E-7336-4B94-B691-42ED4387B5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AFEAB6E-7336-4B94-B691-42ED4387B5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AFEAB6E-7336-4B94-B691-42ED4387B5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18268D3B-EDB4-41A8-BA98-30AEBF71A5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18268D3B-EDB4-41A8-BA98-30AEBF71A5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18268D3B-EDB4-41A8-BA98-30AEBF71A5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18268D3B-EDB4-41A8-BA98-30AEBF71A5ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

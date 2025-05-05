@@ -5,3 +5,5 @@ D:\Trraining c#\Solid\SolidPrinciples\obj\Debug\SolidPrinciples.csproj.AssemblyR
 D:\Trraining c#\Solid\SolidPrinciples\obj\Debug\SolidPrinciples.csproj.CoreCompileInputs.cache
 D:\Trraining c#\Solid\SolidPrinciples\obj\Debug\SolidPrinciples.exe
 D:\Trraining c#\Solid\SolidPrinciples\obj\Debug\SolidPrinciples.pdb
+D:\Trraining c#\Solid\SolidPrinciples\bin\Debug\WhatsAppApi.dll
+D:\Trraining c#\Solid\SolidPrinciples\obj\Debug\SolidPri.7462A5BD.Up2Date

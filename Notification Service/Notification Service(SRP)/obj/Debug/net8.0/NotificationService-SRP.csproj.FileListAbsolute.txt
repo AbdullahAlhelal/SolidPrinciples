@@ -13,3 +13,6 @@ D:\Trraining c#\Solid\Notification Service\Notification Service(SRP)\obj\Debug\n
 D:\Trraining c#\Solid\Notification Service\Notification Service(SRP)\obj\Debug\net8.0\NotificationService-SRP.pdb
 D:\Trraining c#\Solid\Notification Service\Notification Service(SRP)\obj\Debug\net8.0\NotificationService-SRP.genruntimeconfig.cache
 D:\Trraining c#\Solid\Notification Service\Notification Service(SRP)\obj\Debug\net8.0\ref\NotificationService-SRP.dll
+D:\Trraining c#\Solid\Notification Service\Notification Service(SRP)\bin\Debug\net8.0\WhatsAppApi.dll
+D:\Trraining c#\Solid\Notification Service\Notification Service(SRP)\obj\Debug\net8.0\NotificationService-SRP.csproj.AssemblyReference.cache
+D:\Trraining c#\Solid\Notification Service\Notification Service(SRP)\obj\Debug\net8.0\Notifica.E9D05EE8.Up2Date
