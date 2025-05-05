@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NotificationService_SRP
-build_property.ProjectDir = C:\Users\abdullah\source\repos\SolidPrinciples\Notification Service\Notification Service(SRP)\
+build_property.ProjectDir = D:\Trraining c#\Solid\Notification Service\Notification Service(SRP)\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
