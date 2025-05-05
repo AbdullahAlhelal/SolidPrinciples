@@ -1,0 +1,15 @@
+D:\Trraining c#\Solid\Notification Service\Notification Service\bin\Debug\net8.0\Notification Service.exe
+D:\Trraining c#\Solid\Notification Service\Notification Service\bin\Debug\net8.0\Notification Service.deps.json
+D:\Trraining c#\Solid\Notification Service\Notification Service\bin\Debug\net8.0\Notification Service.runtimeconfig.json
+D:\Trraining c#\Solid\Notification Service\Notification Service\bin\Debug\net8.0\Notification Service.dll
+D:\Trraining c#\Solid\Notification Service\Notification Service\bin\Debug\net8.0\Notification Service.pdb
+D:\Trraining c#\Solid\Notification Service\Notification Service\obj\Debug\net8.0\Notification Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trraining c#\Solid\Notification Service\Notification Service\obj\Debug\net8.0\Notification Service.AssemblyInfoInputs.cache
+D:\Trraining c#\Solid\Notification Service\Notification Service\obj\Debug\net8.0\Notification Service.AssemblyInfo.cs
+D:\Trraining c#\Solid\Notification Service\Notification Service\obj\Debug\net8.0\Notification Service.csproj.CoreCompileInputs.cache
+D:\Trraining c#\Solid\Notification Service\Notification Service\obj\Debug\net8.0\Notification Service.sourcelink.json
+D:\Trraining c#\Solid\Notification Service\Notification Service\obj\Debug\net8.0\Notification Service.dll
+D:\Trraining c#\Solid\Notification Service\Notification Service\obj\Debug\net8.0\refint\Notification Service.dll
+D:\Trraining c#\Solid\Notification Service\Notification Service\obj\Debug\net8.0\Notification Service.pdb
+D:\Trraining c#\Solid\Notification Service\Notification Service\obj\Debug\net8.0\Notification Service.genruntimeconfig.cache
+D:\Trraining c#\Solid\Notification Service\Notification Service\obj\Debug\net8.0\ref\Notification Service.dll
