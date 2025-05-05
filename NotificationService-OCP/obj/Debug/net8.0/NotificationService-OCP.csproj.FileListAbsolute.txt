@@ -41,6 +41,3 @@ D:\Trraining c#\Solid\NotificationService-OCP\obj\Debug\net8.0\refint\Notificati
 D:\Trraining c#\Solid\NotificationService-OCP\obj\Debug\net8.0\NotificationService-OCP.pdb
 D:\Trraining c#\Solid\NotificationService-OCP\obj\Debug\net8.0\NotificationService-OCP.genruntimeconfig.cache
 D:\Trraining c#\Solid\NotificationService-OCP\obj\Debug\net8.0\ref\NotificationService-OCP.dll
-D:\Trraining c#\Solid\NotificationService-OCP\bin\Debug\net8.0\WhatsAppApi.dll
-D:\Trraining c#\Solid\NotificationService-OCP\obj\Debug\net8.0\NotificationService-OCP.csproj.AssemblyReference.cache
-D:\Trraining c#\Solid\NotificationService-OCP\obj\Debug\net8.0\Notifica.2542E803.Up2Date

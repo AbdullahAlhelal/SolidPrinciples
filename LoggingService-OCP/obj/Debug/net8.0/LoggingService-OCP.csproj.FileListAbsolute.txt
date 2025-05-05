@@ -26,3 +26,18 @@ D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\02 OCP\02 E
 D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\02 OCP\02 Examples\02 Solution - Logging Service - OCP\LoggingService-OCP\obj\Debug\net8.0\LoggingService-OCP.pdb
 D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\02 OCP\02 Examples\02 Solution - Logging Service - OCP\LoggingService-OCP\obj\Debug\net8.0\LoggingService-OCP.genruntimeconfig.cache
 D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\02 OCP\02 Examples\02 Solution - Logging Service - OCP\LoggingService-OCP\obj\Debug\net8.0\ref\LoggingService-OCP.dll
+D:\Trraining c#\Solid\LoggingService-OCP\bin\Debug\net8.0\LoggingService-OCP.exe
+D:\Trraining c#\Solid\LoggingService-OCP\bin\Debug\net8.0\LoggingService-OCP.deps.json
+D:\Trraining c#\Solid\LoggingService-OCP\bin\Debug\net8.0\LoggingService-OCP.runtimeconfig.json
+D:\Trraining c#\Solid\LoggingService-OCP\bin\Debug\net8.0\LoggingService-OCP.dll
+D:\Trraining c#\Solid\LoggingService-OCP\bin\Debug\net8.0\LoggingService-OCP.pdb
+D:\Trraining c#\Solid\LoggingService-OCP\obj\Debug\net8.0\LoggingService-OCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trraining c#\Solid\LoggingService-OCP\obj\Debug\net8.0\LoggingService-OCP.AssemblyInfoInputs.cache
+D:\Trraining c#\Solid\LoggingService-OCP\obj\Debug\net8.0\LoggingService-OCP.AssemblyInfo.cs
+D:\Trraining c#\Solid\LoggingService-OCP\obj\Debug\net8.0\LoggingService-OCP.csproj.CoreCompileInputs.cache
+D:\Trraining c#\Solid\LoggingService-OCP\obj\Debug\net8.0\LoggingService-OCP.sourcelink.json
+D:\Trraining c#\Solid\LoggingService-OCP\obj\Debug\net8.0\LoggingService-OCP.dll
+D:\Trraining c#\Solid\LoggingService-OCP\obj\Debug\net8.0\refint\LoggingService-OCP.dll
+D:\Trraining c#\Solid\LoggingService-OCP\obj\Debug\net8.0\LoggingService-OCP.pdb
+D:\Trraining c#\Solid\LoggingService-OCP\obj\Debug\net8.0\LoggingService-OCP.genruntimeconfig.cache
+D:\Trraining c#\Solid\LoggingService-OCP\obj\Debug\net8.0\ref\LoggingService-OCP.dll
