@@ -19,6 +19,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggingService-OCP", "Loggi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentService-OCP", "PaymentService-OCP\PaymentService-OCP.csproj", "{528795CD-C0CA-4CD0-84B1-15B3B12ADA1E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex1 Violating LSP - Bird", "Ex1 Violating LSP - Bird\Ex1 Violating LSP - Bird.csproj", "{F4275376-B466-4229-96CA-12D89BEB4685}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex2 - Bird -LSP", "Ex2 - Bird -LSP\Ex2 - Bird -LSP.csproj", "{5906232C-BAA6-4CAF-BF82-283F894A9556}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex3 - Violating LSP - Vehicle", "Ex3 - Violating LSP - Vehicle\Ex3 - Violating LSP - Vehicle.csproj", "{8861055C-44CD-43BF-A12D-C9922EC6053F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +63,18 @@ Global
 		{528795CD-C0CA-4CD0-84B1-15B3B12ADA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{528795CD-C0CA-4CD0-84B1-15B3B12ADA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{528795CD-C0CA-4CD0-84B1-15B3B12ADA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4275376-B466-4229-96CA-12D89BEB4685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4275376-B466-4229-96CA-12D89BEB4685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4275376-B466-4229-96CA-12D89BEB4685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4275376-B466-4229-96CA-12D89BEB4685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5906232C-BAA6-4CAF-BF82-283F894A9556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5906232C-BAA6-4CAF-BF82-283F894A9556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5906232C-BAA6-4CAF-BF82-283F894A9556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5906232C-BAA6-4CAF-BF82-283F894A9556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8861055C-44CD-43BF-A12D-C9922EC6053F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8861055C-44CD-43BF-A12D-C9922EC6053F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8861055C-44CD-43BF-A12D-C9922EC6053F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8861055C-44CD-43BF-A12D-C9922EC6053F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
