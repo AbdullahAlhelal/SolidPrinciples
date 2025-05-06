@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex3 - Violating ISP - Payment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52c510cc26acc99f40a5d8ce0d1a3724c91a07a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+042adff2f91298f4033e3707497a2b70644a0dba")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex3 - Violating ISP - Payment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex3 - Violating ISP - Payment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,18 @@ D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\04 ISP\02 E
 D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\04 ISP\02 Examples\04 Ex4 Applying ISP - Payment\Ex4 - Applying ISP - Payment\obj\Debug\net8.0\Ex4 - Applying ISP - Payment.pdb
 D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\04 ISP\02 Examples\04 Ex4 Applying ISP - Payment\Ex4 - Applying ISP - Payment\obj\Debug\net8.0\Ex4 - Applying ISP - Payment.genruntimeconfig.cache
 D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\04 ISP\02 Examples\04 Ex4 Applying ISP - Payment\Ex4 - Applying ISP - Payment\obj\Debug\net8.0\ref\Ex4 - Applying ISP - Payment.dll
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\bin\Debug\net8.0\Ex4 - Applying ISP - Payment.exe
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\bin\Debug\net8.0\Ex4 - Applying ISP - Payment.deps.json
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\bin\Debug\net8.0\Ex4 - Applying ISP - Payment.runtimeconfig.json
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\bin\Debug\net8.0\Ex4 - Applying ISP - Payment.dll
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\bin\Debug\net8.0\Ex4 - Applying ISP - Payment.pdb
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\obj\Debug\net8.0\Ex4 - Applying ISP - Payment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\obj\Debug\net8.0\Ex4 - Applying ISP - Payment.AssemblyInfoInputs.cache
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\obj\Debug\net8.0\Ex4 - Applying ISP - Payment.AssemblyInfo.cs
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\obj\Debug\net8.0\Ex4 - Applying ISP - Payment.csproj.CoreCompileInputs.cache
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\obj\Debug\net8.0\Ex4 - Applying ISP - Payment.sourcelink.json
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\obj\Debug\net8.0\Ex4 - Applying ISP - Payment.dll
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\obj\Debug\net8.0\refint\Ex4 - Applying ISP - Payment.dll
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\obj\Debug\net8.0\Ex4 - Applying ISP - Payment.pdb
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\obj\Debug\net8.0\Ex4 - Applying ISP - Payment.genruntimeconfig.cache
+D:\Trraining c#\Solid\Ex4 - Applying ISP - Payment\obj\Debug\net8.0\ref\Ex4 - Applying ISP - Payment.dll
