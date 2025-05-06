@@ -27,6 +27,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex3 - Violating LSP - Vehic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex4 - Vehicle - LSP", "Ex4 - Vehicle - LSP\Ex4 - Vehicle - LSP.csproj", "{C6E19474-1B53-45B1-9C91-B3A19EB9558C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex6 - Person - LSP", "Ex6 - Person - LSP\Ex6 - Person - LSP.csproj", "{D0F10551-B4F3-4AF9-BCB2-F6C9CACA70A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex5 - Violating LSP - Person", "Ex5 - Violating LSP - Person\Ex5 - Violating LSP - Person.csproj", "{6173F762-4308-46F6-B129-FD2F5C310472}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{C6E19474-1B53-45B1-9C91-B3A19EB9558C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6E19474-1B53-45B1-9C91-B3A19EB9558C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6E19474-1B53-45B1-9C91-B3A19EB9558C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F10551-B4F3-4AF9-BCB2-F6C9CACA70A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F10551-B4F3-4AF9-BCB2-F6C9CACA70A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F10551-B4F3-4AF9-BCB2-F6C9CACA70A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F10551-B4F3-4AF9-BCB2-F6C9CACA70A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6173F762-4308-46F6-B129-FD2F5C310472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6173F762-4308-46F6-B129-FD2F5C310472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6173F762-4308-46F6-B129-FD2F5C310472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6173F762-4308-46F6-B129-FD2F5C310472}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
