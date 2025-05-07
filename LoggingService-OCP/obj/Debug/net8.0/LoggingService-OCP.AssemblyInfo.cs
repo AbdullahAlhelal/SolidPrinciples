@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoggingService-OCP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52c510cc26acc99f40a5d8ce0d1a3724c91a07a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c68e051e44864dfcc828c0daec62fcb2644dba0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoggingService-OCP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoggingService-OCP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

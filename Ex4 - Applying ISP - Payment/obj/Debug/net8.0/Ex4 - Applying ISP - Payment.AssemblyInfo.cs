@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex4 - Applying ISP - Payment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+042adff2f91298f4033e3707497a2b70644a0dba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c68e051e44864dfcc828c0daec62fcb2644dba0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex4 - Applying ISP - Payment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex4 - Applying ISP - Payment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

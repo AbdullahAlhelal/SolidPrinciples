@@ -39,6 +39,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex3 - Violating ISP - Payme
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex4 - Applying ISP - Payment", "Ex4 - Applying ISP - Payment\Ex4 - Applying ISP - Payment.csproj", "{CD52192B-2B76-42CF-AB8D-2C24F7172271}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex6 - Applying ISP - Device", "Ex6 - Applying ISP - Device\Ex6 - Applying ISP - Device.csproj", "{74CEF1EE-2EF5-470A-9529-F082BC4534E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex5 - Violating ISP - Device", "Ex5 - Violating ISP - Device\Ex5 - Violating ISP - Device.csproj", "{8824EB8F-EDF7-4C7A-89A9-0D73799801F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{CD52192B-2B76-42CF-AB8D-2C24F7172271}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD52192B-2B76-42CF-AB8D-2C24F7172271}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD52192B-2B76-42CF-AB8D-2C24F7172271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74CEF1EE-2EF5-470A-9529-F082BC4534E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CEF1EE-2EF5-470A-9529-F082BC4534E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CEF1EE-2EF5-470A-9529-F082BC4534E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CEF1EE-2EF5-470A-9529-F082BC4534E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8824EB8F-EDF7-4C7A-89A9-0D73799801F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8824EB8F-EDF7-4C7A-89A9-0D73799801F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8824EB8F-EDF7-4C7A-89A9-0D73799801F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8824EB8F-EDF7-4C7A-89A9-0D73799801F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
