@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Trraining c#\\Solid\\",
+  "WorkspaceRootPath": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{CD52192B-2B76-42CF-AB8D-2C24F7172271}|Ex4 - Applying ISP - Payment\\Ex4 - Applying ISP - Payment.csproj|d:\\trraining c#\\solid\\ex4 - applying isp - payment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD52192B-2B76-42CF-AB8D-2C24F7172271}|Ex4 - Applying ISP - Payment\\Ex4 - Applying ISP - Payment.csproj|solutionrelative:ex4 - applying isp - payment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +18,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{C6E19474-1B53-45B1-9C91-B3A19EB9558C}|Ex4 - Vehicle - LSP\\Ex4 - Vehicle - LSP.csproj|d:\\trraining c#\\solid\\ex4 - vehicle - lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6E19474-1B53-45B1-9C91-B3A19EB9558C}|Ex4 - Vehicle - LSP\\Ex4 - Vehicle - LSP.csproj|solutionrelative:ex4 - vehicle - lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{4AA218DE-F114-4000-B815-84D1DD7F6A8A}|Notification Service\\Notification Service(SRP)\\NotificationService-SRP.csproj|c:\\users\\abdullah\\source\\repos\\solidprinciples\\notification service\\notification service(srp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA218DE-F114-4000-B815-84D1DD7F6A8A}|Notification Service\\Notification Service(SRP)\\NotificationService-SRP.csproj|solutionrelative:notification service\\notification service(srp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> e239329d7b28515b744f4bd5820b06ddb4fcf0ab
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18268D3B-EDB4-41A8-BA98-30AEBF71A5ED}|NotificationService-OCP\\NotificationService-OCP.csproj|d:\\trraining c#\\solid\\notificationservice-ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18268D3B-EDB4-41A8-BA98-30AEBF71A5ED}|NotificationService-OCP\\NotificationService-OCP.csproj|solutionrelative:notificationservice-ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17322CD8-83C9-4F8E-9BC9-3A392EF3441E}|Notification Service\\Notification Service\\Notification Service.csproj|c:\\users\\abdullah\\source\\repos\\solidprinciples\\notification service\\notification service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17322CD8-83C9-4F8E-9BC9-3A392EF3441E}|Notification Service\\Notification Service\\Notification Service.csproj|solutionrelative:notification service\\notification service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB03A0A-F906-4C39-9F00-B41B62F411A8}|SolidPrinciples\\SolidPrinciples.csproj|C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB03A0A-F906-4C39-9F00-B41B62F411A8}|SolidPrinciples\\SolidPrinciples.csproj|solutionrelative:solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,20 +39,181 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 42,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+              "Name": "ST:49:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+              "Name": "ST:6:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:48:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:54:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:55:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:47:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:57:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:58:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:59:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:60:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:66:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:67:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:68:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\Trraining c#\\Solid\\Ex4 - Applying ISP - Payment\\Program.cs",
               "RelativeDocumentMoniker": "Ex4 - Applying ISP - Payment\\Program.cs",
               "ToolTip": "D:\\Trraining c#\\Solid\\Ex4 - Applying ISP - Payment\\Program.cs",
@@ -88,21 +258,40 @@
               "ToolTip": "D:\\Trraining c#\\Solid\\Ex4 - Vehicle - LSP\\Program.cs",
               "RelativeToolTip": "Ex4 - Vehicle - LSP\\Program.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAgwCUAAAADAAAA",
+=======
+              "DocumentMoniker": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\Notification Service\\Notification Service(SRP)\\Program.cs",
+              "RelativeDocumentMoniker": "Notification Service\\Notification Service(SRP)\\Program.cs",
+              "ToolTip": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\Notification Service\\Notification Service(SRP)\\Program.cs",
+              "RelativeToolTip": "Notification Service\\Notification Service(SRP)\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCgAAAA/AAAAAAAAAA==",
+>>>>>>> e239329d7b28515b744f4bd5820b06ddb4fcf0ab
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T17:13:32.398Z",
+              "WhenOpened": "2025-04-24T07:41:08.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Trraining c#\\Solid\\NotificationService-OCP\\Program.cs",
-              "RelativeDocumentMoniker": "NotificationService-OCP\\Program.cs",
-              "ToolTip": "D:\\Trraining c#\\Solid\\NotificationService-OCP\\Program.cs",
-              "RelativeToolTip": "NotificationService-OCP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\Notification Service\\Notification Service\\Program.cs",
+              "RelativeDocumentMoniker": "Notification Service\\Notification Service\\Program.cs",
+              "ToolTip": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\Notification Service\\Notification Service\\Program.cs",
+              "RelativeToolTip": "Notification Service\\Notification Service\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T16:26:20.816Z"
+              "WhenOpened": "2025-04-23T12:24:37.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\SolidPrinciples\\Program.cs",
+              "RelativeDocumentMoniker": "SolidPrinciples\\Program.cs",
+              "ToolTip": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\SolidPrinciples\\Program.cs",
+              "RelativeToolTip": "SolidPrinciples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:48:07.386Z"
             }
           ]
         }
