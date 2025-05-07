@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5uQrOKXQJH7+hQa9kmiMftmY735MGmR1kPq0D0i24XEK8Fhbeb1oDkfSgnXfGC4j2ECAipo7iDpHPtSTu3We2A==",
+  "dgSpecHash": "gyPofNe20DE=",
   "success": true,
-  "projectFilePath": "D:\\Trraining c#\\Solid\\NotificationService-OCP\\NotificationService-OCP.csproj",
+  "projectFilePath": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\NotificationService-OCP\\NotificationService-OCP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

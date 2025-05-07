@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex1 Violating LSP - Bird")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e52385839b846042ae73f754dc567de0cb8b4cf4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77c0298787e1698518b06509acc257d085d841e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex1 Violating LSP - Bird")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex1 Violating LSP - Bird")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

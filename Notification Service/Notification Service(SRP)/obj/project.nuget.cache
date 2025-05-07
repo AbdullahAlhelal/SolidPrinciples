@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HVsr2hrLX3m3FwNPPQEeFMCc6AsPpDazE4K6bIgK9dNikGNYc8cBZvCMxJWZVue9kYn2ZGrvrq8bUwS0FxtGHg==",
+  "dgSpecHash": "nUhZW/qUWGE=",
   "success": true,
-  "projectFilePath": "D:\\Trraining c#\\Solid\\Notification Service\\Notification Service(SRP)\\NotificationService-SRP.csproj",
+  "projectFilePath": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\Notification Service\\Notification Service(SRP)\\NotificationService-SRP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

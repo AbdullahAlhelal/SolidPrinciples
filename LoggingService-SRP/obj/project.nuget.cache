@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+n+7f1es9GZXOY+7OTzHxFEUOZc3f2zlzCMFbl6bWb/lXRpFSbpPwG/Yleep+4COrEwB4gLiNF+IL3aeFfJqA==",
+  "dgSpecHash": "BXMuEW3Y79Y=",
   "success": true,
-  "projectFilePath": "D:\\Trraining c#\\Solid\\LoggingService-SRP\\LoggingService-SRP.csproj",
+  "projectFilePath": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\LoggingService-SRP\\LoggingService-SRP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
