@@ -12,3 +12,18 @@ D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\04 ISP\02 E
 D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\04 ISP\02 Examples\06 Ex6 Applying ISP - Device\Ex6 - Applying ISP - Device\obj\Debug\net8.0\Ex6 - Applying ISP - Device.pdb
 D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\04 ISP\02 Examples\06 Ex6 Applying ISP - Device\Ex6 - Applying ISP - Device\obj\Debug\net8.0\Ex6 - Applying ISP - Device.genruntimeconfig.cache
 D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\04 ISP\02 Examples\06 Ex6 Applying ISP - Device\Ex6 - Applying ISP - Device\obj\Debug\net8.0\ref\Ex6 - Applying ISP - Device.dll
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\bin\Debug\net8.0\Ex6 - Applying ISP - Device.exe
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\bin\Debug\net8.0\Ex6 - Applying ISP - Device.deps.json
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\bin\Debug\net8.0\Ex6 - Applying ISP - Device.runtimeconfig.json
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\bin\Debug\net8.0\Ex6 - Applying ISP - Device.dll
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\bin\Debug\net8.0\Ex6 - Applying ISP - Device.pdb
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\obj\Debug\net8.0\Ex6 - Applying ISP - Device.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\obj\Debug\net8.0\Ex6 - Applying ISP - Device.AssemblyInfoInputs.cache
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\obj\Debug\net8.0\Ex6 - Applying ISP - Device.AssemblyInfo.cs
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\obj\Debug\net8.0\Ex6 - Applying ISP - Device.csproj.CoreCompileInputs.cache
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\obj\Debug\net8.0\Ex6 - Applying ISP - Device.sourcelink.json
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\obj\Debug\net8.0\Ex6 - Applying ISP - Device.dll
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\obj\Debug\net8.0\refint\Ex6 - Applying ISP - Device.dll
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\obj\Debug\net8.0\Ex6 - Applying ISP - Device.pdb
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\obj\Debug\net8.0\Ex6 - Applying ISP - Device.genruntimeconfig.cache
+D:\Trraining c#\Solid\Ex6 - Applying ISP - Device\obj\Debug\net8.0\ref\Ex6 - Applying ISP - Device.dll

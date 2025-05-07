@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Trraining c#\\Solid\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD52192B-2B76-42CF-AB8D-2C24F7172271}|Ex4 - Applying ISP - Payment\\Ex4 - Applying ISP - Payment.csproj|d:\\trraining c#\\solid\\ex4 - applying isp - payment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD52192B-2B76-42CF-AB8D-2C24F7172271}|Ex4 - Applying ISP - Payment\\Ex4 - Applying ISP - Payment.csproj|solutionrelative:ex4 - applying isp - payment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CCE5CF-3FA5-4F39-83D2-DE816E9CF288}|Ex3 - Violating ISP - Payment\\Ex3 - Violating ISP - Payment.csproj|d:\\trraining c#\\solid\\ex3 - violating isp - payment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CCE5CF-3FA5-4F39-83D2-DE816E9CF288}|Ex3 - Violating ISP - Payment\\Ex3 - Violating ISP - Payment.csproj|solutionrelative:ex3 - violating isp - payment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630B6BEE-F098-453F-8E64-178A1D5D8FF0}|Ex1 - Violating ISP - Printer\\Ex1 - Violating ISP - Printer.csproj|d:\\trraining c#\\solid\\ex1 - violating isp - printer\\ex1 - violating isp - printer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{630B6BEE-F098-453F-8E64-178A1D5D8FF0}|Ex1 - Violating ISP - Printer\\Ex1 - Violating ISP - Printer.csproj|solutionrelative:ex1 - violating isp - printer\\ex1 - violating isp - printer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6E19474-1B53-45B1-9C91-B3A19EB9558C}|Ex4 - Vehicle - LSP\\Ex4 - Vehicle - LSP.csproj|d:\\trraining c#\\solid\\ex4 - vehicle - lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6E19474-1B53-45B1-9C91-B3A19EB9558C}|Ex4 - Vehicle - LSP\\Ex4 - Vehicle - LSP.csproj|solutionrelative:ex4 - vehicle - lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +44,45 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trraining c#\\Solid\\Ex4 - Applying ISP - Payment\\Program.cs",
+              "RelativeDocumentMoniker": "Ex4 - Applying ISP - Payment\\Program.cs",
+              "ToolTip": "D:\\Trraining c#\\Solid\\Ex4 - Applying ISP - Payment\\Program.cs",
+              "RelativeToolTip": "Ex4 - Applying ISP - Payment\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:50:59.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trraining c#\\Solid\\Ex3 - Violating ISP - Payment\\Program.cs",
+              "RelativeDocumentMoniker": "Ex3 - Violating ISP - Payment\\Program.cs",
+              "ToolTip": "D:\\Trraining c#\\Solid\\Ex3 - Violating ISP - Payment\\Program.cs",
+              "RelativeToolTip": "Ex3 - Violating ISP - Payment\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:50:11.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex1 - Violating ISP - Printer",
+              "DocumentMoniker": "D:\\Trraining c#\\Solid\\Ex1 - Violating ISP - Printer\\Ex1 - Violating ISP - Printer.csproj",
+              "RelativeDocumentMoniker": "Ex1 - Violating ISP - Printer\\Ex1 - Violating ISP - Printer.csproj",
+              "ToolTip": "D:\\Trraining c#\\Solid\\Ex1 - Violating ISP - Printer\\Ex1 - Violating ISP - Printer.csproj",
+              "RelativeToolTip": "Ex1 - Violating ISP - Printer\\Ex1 - Violating ISP - Printer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T15:50:08.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Trraining c#\\Solid\\Ex4 - Vehicle - LSP\\Program.cs",
               "RelativeDocumentMoniker": "Ex4 - Vehicle - LSP\\Program.cs",
               "ToolTip": "D:\\Trraining c#\\Solid\\Ex4 - Vehicle - LSP\\Program.cs",
@@ -43,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Trraining c#\\Solid\\NotificationService-OCP\\Program.cs",
               "RelativeDocumentMoniker": "NotificationService-OCP\\Program.cs",
