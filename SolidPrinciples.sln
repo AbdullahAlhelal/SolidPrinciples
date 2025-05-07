@@ -43,6 +43,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex6 - Applying ISP - Device
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex5 - Violating ISP - Device", "Ex5 - Violating ISP - Device\Ex5 - Violating ISP - Device.csproj", "{8824EB8F-EDF7-4C7A-89A9-0D73799801F8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex1 - Violate DIP - Report", "Ex1 - Violate DIP - Report\Ex1 - Violate DIP - Report.csproj", "{299A1EB7-CAB5-47EB-A94F-9896527071F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex2- DIP - Report", "Ex2- DIP - Report\Ex2- DIP - Report.csproj", "{1D2284A9-683D-4317-998F-5609145DA2D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{8824EB8F-EDF7-4C7A-89A9-0D73799801F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8824EB8F-EDF7-4C7A-89A9-0D73799801F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8824EB8F-EDF7-4C7A-89A9-0D73799801F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299A1EB7-CAB5-47EB-A94F-9896527071F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299A1EB7-CAB5-47EB-A94F-9896527071F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299A1EB7-CAB5-47EB-A94F-9896527071F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299A1EB7-CAB5-47EB-A94F-9896527071F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D2284A9-683D-4317-998F-5609145DA2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2284A9-683D-4317-998F-5609145DA2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2284A9-683D-4317-998F-5609145DA2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2284A9-683D-4317-998F-5609145DA2D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

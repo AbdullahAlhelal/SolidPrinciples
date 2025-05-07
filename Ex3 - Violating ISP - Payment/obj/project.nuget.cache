@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5yVO7qmwoQ0=",
+  "dgSpecHash": "b41bFrxba9m+eGBagaJbHU49XgcMeMUGdPyuDg/kBcRh5zl9IwGNKdnV608BCwbtK87k+q/WDgTMyNYDsCmeXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdullah\\source\\repos\\SolidPrinciples\\Ex3 - Violating ISP - Payment\\Ex3 - Violating ISP - Payment.csproj",
+  "projectFilePath": "D:\\Trraining c#\\Solid\\Ex3 - Violating ISP - Payment\\Ex3 - Violating ISP - Payment.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
